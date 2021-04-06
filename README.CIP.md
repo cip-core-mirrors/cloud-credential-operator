@@ -1,6 +1,6 @@
 # CIP Cloud Credential Operator
 
-[Version: v0.0.0]
+[Version: v0.1.0]
 
 
 ## What is it?
